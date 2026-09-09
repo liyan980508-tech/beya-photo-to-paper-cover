@@ -1,0 +1,7 @@
+interface:
+  display_name: "Beya Photo to Paper Cover"
+  short_description: "Make signed 5-style paper art."
+  default_prompt: "Use $beya-photo-to-paper-cover to turn my uploaded photo into Beya paper art; ask for my signature name, style 1-5, and split or illustration-only mode first."
+
+policy:
+  allow_implicit_invocation: true
