@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <rect width="1600" height="1200" fill="#F6F1E7"/>
+  <text x="80" y="110" font-family="Georgia, serif" font-size="44" fill="#3D403A">Beya Paper Cover Palette</text>
+  <text x="80" y="155" font-family="Georgia, serif" font-size="22" fill="#6F735F">premium muted paper colors for illustration skills</text>
+  <g font-family="Menlo, Consolas, monospace" font-size="18" fill="#2D302F">
+    <rect x="80" y="230" width="180" height="110" fill="#B65A4B"/><text x="80" y="375">Persimmon Red</text><text x="80" y="402">#B65A4B</text>
+    <rect x="290" y="230" width="180" height="110" fill="#C47A45"/><text x="290" y="375">Burnt Apricot</text><text x="290" y="402">#C47A45</text>
+    <rect x="500" y="230" width="180" height="110" fill="#D4B45E"/><text x="500" y="375">Oat Gold</text><text x="500" y="402">#D4B45E</text>
+    <rect x="710" y="230" width="180" height="110" fill="#8FA77A"/><text x="710" y="375">Lichen Green</text><text x="710" y="402">#8FA77A</text>
+    <rect x="920" y="230" width="180" height="110" fill="#6F9DB5"/><text x="920" y="375">Mist Sea Blue</text><text x="920" y="402">#6F9DB5</text>
+    <rect x="1130" y="230" width="180" height="110" fill="#566B86"/><text x="1130" y="375">Slate Indigo</text><text x="1130" y="402">#566B86</text>
+    <rect x="1340" y="230" width="180" height="110" fill="#8A789B"/><text x="1340" y="375">Faded Mauve</text><text x="1340" y="402">#8A789B</text>
+
+    <rect x="80" y="500" width="180" height="110" fill="#F8F6EF" stroke="#D8D0C0"/><text x="80" y="645">Rice Paper</text><text x="80" y="672">#F8F6EF</text>
+    <rect x="290" y="500" width="180" height="110" fill="#EFE7D8"/><text x="290" y="645">Chalk Cream</text><text x="290" y="672">#EFE7D8</text>
+    <rect x="500" y="500" width="180" height="110" fill="#E7E1D3"/><text x="500" y="645">Bone White</text><text x="500" y="672">#E7E1D3</text>
+    <rect x="710" y="500" width="180" height="110" fill="#6F735F"/><text x="710" y="645" fill="#F8F6EF">Olive Gray Ink</text><text x="710" y="672" fill="#F8F6EF">#6F735F</text>
+    <rect x="920" y="500" width="180" height="110" fill="#3D403A"/><text x="920" y="645" fill="#F8F6EF">Soft Charcoal</text><text x="920" y="672" fill="#F8F6EF">#3D403A</text>
+    <rect x="1130" y="500" width="180" height="110" fill="#24435A"/><text x="1130" y="645" fill="#F8F6EF">Naval Ink</text><text x="1130" y="672" fill="#F8F6EF">#24435A</text>
+    <rect x="1340" y="500" width="180" height="110" fill="#D8DCE0"/><text x="1340" y="645">Snow Gray</text><text x="1340" y="672">#D8DCE0</text>
+
+    <rect x="80" y="770" width="180" height="110" fill="#A9B99A"/><text x="80" y="915">Soft Sage</text><text x="80" y="942">#A9B99A</text>
+    <rect x="290" y="770" width="180" height="110" fill="#6F865E"/><text x="290" y="915">Moss Green</text><text x="290" y="942">#6F865E</text>
+    <rect x="500" y="770" width="180" height="110" fill="#314D3D"/><text x="500" y="915" fill="#F8F6EF">Pine Ink</text><text x="500" y="942" fill="#F8F6EF">#314D3D</text>
+    <rect x="710" y="770" width="180" height="110" fill="#7E9FB0"/><text x="710" y="915">Mineral Blue</text><text x="710" y="942">#7E9FB0</text>
+    <rect x="920" y="770" width="180" height="110" fill="#345D72"/><text x="920" y="915" fill="#F8F6EF">Deep Lake</text><text x="920" y="942" fill="#F8F6EF">#345D72</text>
+    <rect x="1130" y="770" width="180" height="110" fill="#E2B78D"/><text x="1130" y="915">Sun Dot Peach</text><text x="1130" y="942">#E2B78D</text>
+    <rect x="1340" y="770" width="180" height="110" fill="#C6954D"/><text x="1340" y="915">Honey Ochre</text><text x="1340" y="942">#C6954D</text>
+  </g>
+  <text x="80" y="1110" font-family="Georgia, serif" font-size="22" fill="#6F735F">Best signature ink: #6F735F. Best paper bases: #F6F1E7, #F8F6EF, #EFE7D8.</text>
+</svg>
